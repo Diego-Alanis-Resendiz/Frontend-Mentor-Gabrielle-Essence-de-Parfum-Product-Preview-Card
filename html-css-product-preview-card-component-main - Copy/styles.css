@@ -1,0 +1,17 @@
+body {
+    background-color: hsl(30, 38%, 92%);
+    font-family: 'Montserrat', sans-serif;
+    color: hsl(228, 12%, 48%);
+}
+
+h1 {
+    font-family: 'Fraunces', serif;
+    color: black;
+}
+
+#discount {
+    color: hsl(158, 36%, 37%);
+}
+#og-price { 
+    text-decoration: line-through;
+}
