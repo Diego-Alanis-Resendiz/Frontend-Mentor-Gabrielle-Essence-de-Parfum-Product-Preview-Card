@@ -1,19 +1,22 @@
-/* Preview Card */
-section{
+section {
     padding: 15% 25%;
 }
+
 body {
     background-color: hsl(30, 38%, 92%);
     font-family: 'Montserrat', sans-serif;
     color: hsl(228, 12%, 48%);
 }
+
 h1 {
     font-family: 'Fraunces', serif;
     color: black;
     line-height: 1;
-    
+    padding-top: 1.4rem;
+
 }
-h2{
+
+h2 {
     font-size: 15px;
 }
 
@@ -21,37 +24,36 @@ p {
     font-size: 1rem;
     line-height: 1.5;
     color: hsl(229, 8%, 49%);
+    padding-top: 1.4rem;
 }
-.preview-card{
-    /* border: dashed 5px red; */
+
+.preview-card {
     border-radius: 5%;
     overflow: hidden;
 }
-
-/* Perfume Image Properties */
-#img-perfume{
+/* Image Side of Preview Card */
+.image-side{
 padding: 0;
 }
-#gabrielle-parfum-mobile {
-   width:100%;
-   height: 100%;
+
+/* Perfume Image Properties */
+.image-propers {
+    width: 100%;
+    height: 100%;
 }
-#gabrielle-parfum {
-   width:100%;
-   height: 100%;
-}
-/* Description Properties */
-#info {
+
+/* Prduct Detail Side of Preview Card*/
+.product-details {
     position: relative;
     background-color: white;
 }
-.description{
-padding: 10% 10% 4% ;
-height: 100%;
+
+.description {
+    padding: 10% 10% 4% 8%;
+    height: 100%;
 }
-.top-pad{
-    padding-top: 1.4rem;
-}
+
+
 #discount {
     color: hsl(158, 36%, 37%);
 }
@@ -67,9 +69,6 @@ height: 100%;
     display: inline-block;
 }
 
-
-
-
 button {
     background-color: hsl(158, 36%, 37%);
     height: 11%;
@@ -79,17 +78,16 @@ button {
     font-weight: 700;
     color: hsl(0, 0%, 100%);
     display: block;
-    margin: 1.2rem auto;
+    margin: 1.2rem auto 50px;
     font-size: 1.1rem;
 }
 button:hover {
     background-color: hsl(158, 42%, 25%);
-    
-}
 
+}
 /* attribution */
 
-.attribution{
+.attribution {
     text-align: center;
     padding-bottom: 2rem;
 }
