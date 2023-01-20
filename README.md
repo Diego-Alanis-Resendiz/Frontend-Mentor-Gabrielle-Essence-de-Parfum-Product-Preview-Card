@@ -79,8 +79,8 @@ In future version of this project I would like to make the mobile version more u
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Diego-Alanis-Resendiz)
-- GitHub - [@yourusername](https://github.com/Diego-Alanis-Resendiz)
+- Frontend Mentor - [Diego-Alanis-Resendiz](https://www.frontendmentor.io/profile/Diego-Alanis-Resendiz)
+- GitHub - [@Diego-Alanis-Resendiz](https://github.com/Diego-Alanis-Resendiz)
 
 ## Acknowledgments
 
